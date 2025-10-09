@@ -1,7 +1,7 @@
 {
-  "name": "system2-homepage-plain",
+  "name": "system2-homepage-fontmatch",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev": "next dev -p 3000",
     "build": "next build",
