@@ -1,0 +1,12 @@
+/* Paste this inside your component's JSX, just before <header> */
+import Head from 'next/head';
+
+<Head>
+  <title>System 2 Kreditt</title>
+  <meta name="description" content="System 2 Kreditt – registrert AIF-forvalter med fokus på høyrenteinvesteringer for profesjonelle investorer." />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:title" content="System 2 Kreditt" />
+  <meta property="og:description" content="Registrert AIF-forvalter med tillatelse fra Finanstilsynet." />
+  <meta property="og:url" content="https://system2.no" />
+  <meta property="og:type" content="website" />
+</Head>
